@@ -1,0 +1,196 @@
+{
+  "apps": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+    "email_feedback_and_report": "youremail@gmail.com",
+    "webview_cache": true,
+    "post_list_in_large_style": false,
+    "show_post_list_header": true,
+    "show_post_detail_image": true,
+    "show_post_detail_title": true,
+    "show_post_detail_category": true,
+    "show_related_posts": true,
+    "enable_rtl_mode": false,
+    "enable_exit_dialog": true,
+    "enable_dark_mode_as_default_theme": false
+  },
+  "ads": {
+    "mainAds": "admob",
+    "backupAds": "admob",
+    "adStatus": true,
+    "interstitialInterval": 3,
+    "bannerStatus": true,
+    "interstitialStatus": true,
+    "nativeStatus": true,
+    "rewardedStatus": true,
+    "appOpenStatus": true,
+    "mainAdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+    "mainAdManagerAppId": "0",
+    "mainStartappAppId": "0",
+    "mainUnityGameId": "0",
+    "mainIronsourceAppKey": "0",
+    "mainApplovinSdkKey": "0",
+    "mainBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "mainInterstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "mainNativeId": "ca-app-pub-3940256099942544/2247696110",
+    "mainRewardedId": "ca-app-pub-3940256099942544/5224354917",
+    "mainAppOpenId": "ca-app-pub-3940256099942544/9257395921",
+    "backupAdmobAppId": "0",
+    "backupAdManagerAppId": "ca-app-pub-3940256099942544~3347511713",
+    "backupStartappAppId": "0",
+    "backupUnityGameId": "0",
+    "backupIronsourceAppKey": "0",
+    "backupApplovinSdkKey": "0",
+    "backupBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "backupInterstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "backupNativeId": "ca-app-pub-3940256099942544/2247696110",
+    "backupRewardedId": "ca-app-pub-3940256099942544/5224354917",
+    "backupAppOpenId": "ca-app-pub-3940256099942544/9257395921"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Wandoo Guide",
+      "image": "https://loremflickr.com/800/600/fintech,money"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Wandoo Guide",
+      "title": "Introduction to Wandoo: What It Is and How It Works",
+      "image": "https://loremflickr.com/800/600/fintech,money",
+      "content": "<p>Wandoo is a European financial technology (fintech) company, operating prominently in Spain, that specializes in short-term cash loans, commonly known as minicréditos. Wandoo is designed to provide an instant financial safety net for individuals who need emergency funds quickly, bypassing the lengthy bureaucratic processes of traditional banks.</p><p>The way Wandoo works is incredibly simple and 100% online. You do not need to visit a branch or fill out physical paperwork. Through their web platform, borrowers use an interactive slider to select the loan amount and the repayment duration (usually up to 30 or 35 days). An automated algorithm then evaluates your credit risk profile instantly. If approved, the funds are wired directly to your bank account. For new users, the borrowing limit is capped (often at €300) to mitigate risk, but this limit increases as you build a positive repayment history.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 2,
+      "category": "Wandoo Guide",
+      "title": "Key Requirements for Wandoo Registration",
+      "image": "https://loremflickr.com/800/600/idcard,document",
+      "content": "<p>Before you can apply for a loan on Wandoo, you must meet a set of basic requirements. Wandoo strictly complies with Spanish financial regulations regarding consumer credit.</p><p>First, you must be at least 18 years old. Second, you are required to be a legal resident of Spain. This is verified by providing a valid identity document: a DNI (Documento Nacional de Identidad) for Spanish citizens, or an NIE (Número de Identidad de Extranjero) for foreign residents.</p><p>Third, you must own a personal bank account registered in Spain. This account must be in your name, as Wandoo will not transfer funds to third-party accounts to prevent money laundering. Additionally, you need an active mobile phone number and a valid email address for verification. Finally, you generally need a regular source of income and must not be listed on any credit blacklists (such as ASNEF or EQUIFAX).</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 3,
+      "category": "Wandoo Guide",
+      "title": "Pros and Cons of Using Wandoo",
+      "image": "https://loremflickr.com/800/600/balance,scale",
+      "content": "<p>Using instant loan services like Wandoo has two sides. Understanding the pros and cons is a wise step before making any financial commitments.</p><p>The main advantage of Wandoo is its speed. The application to approval process can take less than 15 minutes thanks to automated verification. The platform is also highly transparent; the loan calculator displays the exact total you need to repay with no hidden fees. Wandoo frequently offers a promotion for new customers: a first loan with 0% interest (0% APR), making it a very cheap emergency fund if paid on time.</p><p>The disadvantage lies in the minicréditos business model itself. The Annual Percentage Rate (APR) for subsequent loans is exceptionally high compared to traditional banks. Furthermore, the very short repayment window (max 30 days) can be burdensome. Failing to pay on time will trigger aggressive late payment penalties.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 4,
+      "category": "Wandoo Guide",
+      "title": "Step-by-Step Guide to Creating a Wandoo Account",
+      "image": "https://loremflickr.com/800/600/smartphone,website",
+      "content": "<p>Creating an account on Wandoo is designed to be highly intuitive. You only need a smartphone or computer with internet access.</p><p>Step 1: Visit the official Wandoo website (e.g., wandoo.es). You will be greeted by the loan slider on the homepage.<br>Step 2: Adjust the slider to set your desired loan amount and repayment period. Click \"Solicitar\" (Apply).<br>Step 3: You will be redirected to a registration form. Fill in your personal data accurately, including your full name, DNI/NIE number, date of birth, and home address.<br>Step 4: Enter your contact details (email and mobile number). The system will send a PIN code or verification link. Enter this code to confirm your details.<br>Step 5: Create a strong password. Your Wandoo account is now active, and you are ready to proceed to identity verification.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 5,
+      "category": "Wandoo Guide",
+      "title": "Identity and Bank Verification Process",
+      "image": "https://loremflickr.com/800/600/security,banking",
+      "content": "<p>Security is a top priority in digital finance. Wandoo must verify that you are the person matching the DNI/NIE and that the bank account belongs to you. They offer two verification methods:</p><p>1. Automatic Verification (Recommended):<br>Wandoo partners with secure Open Banking verification services like Kontomatik or Instantor. You log into your online banking portal temporarily through this encrypted channel. The system only reads your transaction history and account ownership (read-only) without the ability to make transfers. This takes less than 2 minutes and speeds up your approval.</p><p>2. Manual Verification:<br>If you prefer not to use Open Banking, you must manually upload photos of the front and back of your ID (DNI/NIE) and proof of bank account ownership (like an online banking screenshot or bank statement). This requires human review by the Wandoo team, which can take up to 24 business hours.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 6,
+      "category": "Wandoo Guide",
+      "title": "How to Apply for Your First Loan",
+      "image": "https://loremflickr.com/800/600/laptop,application",
+      "content": "<p>Once your account is verified, applying for your first loan is seamless. Log into your Wandoo dashboard, where your maximum approved credit limit will be displayed.</p><p>Select the amount you need (remember, new users are capped at around €300). Next, choose your loan term (e.g., 7, 14, or 30 days). The system will summarize the total amount due on the maturity date. Make sure to read the SECCI (Standard European Consumer Credit Information) document provided, which outlines your credit contract.</p><p>After clicking agree or digitally signing the contract (usually via an SMS OTP), your application moves to disbursement. If you qualify for the 0% interest promo, borrowing €300 means you only pay back exactly €300 on the due date, provided you are not late.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 7,
+      "category": "Wandoo Guide",
+      "title": "Understanding APR and Fees on Wandoo",
+      "image": "https://loremflickr.com/800/600/calculator,money",
+      "content": "<p>One of the most critical aspects of Wandoo is its fee structure. Unlike banks that charge low monthly interest, Wandoo charges daily fees that, when annualized (APR or TAE in Spain), can reach thousands of percent.</p><p>Why is the APR so high?<br>These fees reflect the high risk Wandoo takes by lending without collateral or guarantees. It is more accurate to view this as an \"instant service fee\" rather than traditional interest. For example, borrowing €100 for 30 days might incur a flat €30 fee. Wandoo is completely transparent about this total cost upfront. Only borrow if you are 100% certain the funds will be available to repay it on time.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 8,
+      "category": "Wandoo Guide",
+      "title": "How Long Does Wandoo Take to Disburse Funds?",
+      "image": "https://loremflickr.com/800/600/transfer,clock",
+      "content": "<p>Once your loan is approved, Wandoo processes the transfer instruction immediately. The exact time the money hits your account depends on your bank.</p><p>Wandoo collaborates with several major banks in Spain. If your account is with one of their partner banks, the transfer happens internally, and you can receive the funds within 15 minutes, even on weekends or holidays (supported by SEPA Instant).</p><p>However, if your bank does not support instant transfers or is not a direct partner, it will be processed as a standard interbank transfer. In this scenario, funds usually arrive within 24 to 48 business hours. If you apply on a Friday night, you might not see the money until Monday morning.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 9,
+      "category": "Wandoo Guide",
+      "title": "How to Pay Your Bill or Settle Your Loan",
+      "image": "https://loremflickr.com/800/600/creditcard,payment",
+      "content": "<p>Wandoo provides several convenient payment options. Paying on time is essential to avoid fines and maintain a good relationship with the platform.</p><p>Method 1: Card Payment (Debit/Credit): This is the fastest and most recommended method. Log into your Wandoo profile, navigate to the payment section, and enter your bank card details. The payment is processed instantly, clearing your debt immediately.</p><p>Method 2: Bank Transfer: Wandoo will provide a destination IBAN and beneficiary name. When transferring money, you must include your DNI/NIE and Loan Reference Number in the transfer notes. Without this, Wandoo will not know the payment came from you, leading to false late payment flags.</p><p>You are also legally allowed to pay off your loan earlier than the due date without early repayment penalties, saving you money on daily interest.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 10,
+      "category": "Wandoo Guide",
+      "title": "The Wandoo Loan Extension (Prórroga) Feature",
+      "image": "https://loremflickr.com/800/600/calendar,time",
+      "content": "<p>Life is unpredictable, and you might not have the funds ready by the due date. To help users avoid default and heavy fines, Wandoo offers an extension feature called Prórroga.</p><p>This feature allows you to postpone your loan's due date by 7, 14, or 30 days. However, it is not free. To activate it, you must pay an upfront extension fee. This fee is calculated based on the number of extra days requested and your remaining debt balance.</p><p>For instance, if your loan is due tomorrow, you can log in, select a 14-day extension, and pay a €40 fee. Your principal debt does not decrease, but your due date is pushed back by two weeks, protecting your credit score from the ASNEF blacklist.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 11,
+      "category": "Wandoo Guide",
+      "title": "Consequences and Penalties for Late Payments",
+      "image": "https://loremflickr.com/800/600/stress,debt",
+      "content": "<p>If you miss your due date without paying in full or purchasing an extension, Wandoo activates its late payment protocol. You want to avoid this at all costs.</p><p>First, on day one of being late, the system automatically adds a fixed penalty fee. Following this, daily default interest (intereses de demora) begins accumulating, which is significantly higher than the standard rate.</p><p>If the debt remains unpaid after a certain period (usually around 30 days), Wandoo holds the legal right to register your name and DNI on the ASNEF or EQUIFAX delinquent debt registries. Being on this blacklist will prevent you from getting mortgages, credit cards, or even phone contracts elsewhere. Eventually, Wandoo may sell your debt to a third-party collection agency.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 12,
+      "category": "Wandoo Guide",
+      "title": "How to Increase Your Wandoo Loan Limit",
+      "image": "https://loremflickr.com/800/600/growth,chart",
+      "content": "<p>As mentioned, new Wandoo users are usually capped at €300. If you require a higher limit (Wandoo can offer up to €1,000 or more for loyal customers), you need to build a positive internal credit history.</p><p>Wandoo’s algorithmic system relies heavily on track records. The only way to increase your limit is by:</p><p>- Borrowing and repaying loans strictly on time.<br>- Avoiding the excessive use of the extension feature.<br>- Maintaining a healthy banking profile (no bounced checks or heavy overdrafts).</p><p>After successfully completing your first and second loans, the slider in your dashboard will automatically unlock higher amounts for your third application. This tiered approach protects both Wandoo from defaults and you from unmanageable debt.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 13,
+      "category": "Wandoo Guide",
+      "title": "Data Security and Privacy: Is Wandoo Safe?",
+      "image": "https://loremflickr.com/800/600/cybersecurity,lock",
+      "content": "<p>Digital data security is a massive concern for European consumers. Wandoo operates legally in Spain and fully complies with stringent data protection laws, specifically the European GDPR (General Data Protection Regulation) and Spain's LOPDGDD.</p><p>The Wandoo website is secured with industry-standard 256-bit SSL/TLS encryption. This means any sensitive data you input, like your DNI or banking details, is scrambled to prevent interception by hackers. Wandoo also enforces a strict privacy policy where they do not sell your personal data to external third parties (like telemarketers) without your explicit consent.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 14,
+      "category": "Wandoo Guide",
+      "title": "Wandoo Customer Support: Resolving Issues",
+      "image": "https://loremflickr.com/800/600/customerservice,call",
+      "content": "<p>While Wandoo is largely automated, users occasionally face technical issues—such as missing OTP codes, delayed disbursements, or confusion over bank transfers.</p><p>Wandoo provides a Spain-based Customer Support (Atención al Cliente) team. You can reach them via:</p><p>- Phone Call: Available during business hours (Monday to Friday). This is the best option for urgent inquiries.<br>- Email: You can send questions or payment receipts to their official email. Responses usually take 24 business hours.<br>- Internal Messaging: Accessible directly through your Wandoo account dashboard.</p><p>If you anticipate missing a payment, it is highly recommended to contact support before the due date to explore restructuring options.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 15,
+      "category": "Wandoo Guide",
+      "title": "Alternatives to Wandoo for Loans in Spain",
+      "image": "https://loremflickr.com/800/600/options,choice",
+      "content": "<p>While Wandoo is a solid choice, the minicréditos market in Spain is highly competitive. Comparing Wandoo with other platforms ensures you get the best deal.</p><p>Top alternatives operating purely via web platforms (due to strict Google Play financial policies) include:</p><p>- Moneyman: Offers a tiered limit system (up to €1,200) and a loyalty points program that can be exchanged for interest rate discounts.<br>- Vivus: A market leader in Spain, renowned for its transparent \"first loan up to €300 completely interest-free\" offer.<br>- CreditoSí: A platform that offers flexibility beyond standard micro-loans, providing revolving lines of credit.</p><p>Before deciding between Wandoo or an alternative, always compare the APR, the ease of the user interface, and the cost of extension features in case of a financial emergency.</p>",
+      "video": "",
+      "rewarded": false
+    }
+  ],
+  "more_apps": []
+}

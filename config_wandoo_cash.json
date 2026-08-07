@@ -2,8 +2,8 @@
   "apps": {
     "status": true,
     "redirect_url": "",
-    "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
-    "email_feedback_and_report": "youremail@gmail.com",
+    "privacy_policy_url": "https://kuesatu14.blogspot.com/p/privacy-policy.html",
+    "email_feedback_and_report": "kuesatu14@gmail.com",
     "webview_cache": true,
     "post_list_in_large_style": false,
     "show_post_list_header": true,
@@ -57,7 +57,7 @@
     {
       "id": 2,
       "name": "Prestamer Guia",
-      "image": "https://images.unsplash.com/photo-1580519542036-ed47f3e42f65?auto=format&fit=crop&w=800&q=80"
+      "image": "https://loremflickr.com/800/600/smartphone,website"
     },
     {
       "id": 3,
@@ -67,7 +67,7 @@
     {
       "id": 4,
       "name": "CreditoSí Guia",
-      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&w=800&q=80"
+      "image": "https://loremflickr.com/800/600/growth,chart"
     },
     {
       "id": 5,
